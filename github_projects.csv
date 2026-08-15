@@ -1,0 +1,101 @@
+name,owner,language,stars,forks,watchers,open_issues,created_date,updated_date,license
+ml-project-90,dev_user_16,Jupyter Notebook,148550,10347,34061,73,2017-08-15,2021-08-20,Apache License 2.0
+ml-project-33,dev_user_9,Python,147410,2691,27736,997,2018-05-15,2023-06-20,MIT License
+ml-project-55,dev_user_6,Python,143047,11223,21947,362,2017-08-15,2023-05-20,MIT License
+ml-project-8,dev_user_9,Python,140643,2768,2527,652,2016-03-15,2020-08-20,GNU General Public License v3.0
+ml-project-65,dev_user_16,C++,139013,26134,23886,439,2015-04-15,2020-06-20,Apache License 2.0
+ml-project-79,dev_user_5,Java,138541,30305,42601,840,2016-04-15,2020-04-20,MIT License
+ml-project-19,dev_user_20,TypeScript,134883,6746,35254,151,2017-07-15,2023-09-20,Apache License 2.0
+ml-project-50,dev_user_1,C++,133396,25931,36409,449,2017-06-15,2022-03-20,MIT License
+ml-project-1,dev_user_2,Python,132932,11484,6765,471,2016-08-15,2024-04-20,MIT License
+ml-project-60,dev_user_11,Python,132456,604,41443,827,2017-01-15,2024-05-20,"BSD 3-Clause ""New"" or ""Revised"" License"
+ml-project-28,dev_user_4,Python,132373,899,690,257,2018-07-15,2020-03-20,MIT License
+ml-project-86,dev_user_12,Python,128796,26927,4518,1067,2016-06-15,2022-07-20,GNU General Public License v3.0
+ml-project-71,dev_user_22,Java,128600,14378,22695,723,2015-07-15,2021-08-20,MIT License
+ml-project-10,dev_user_11,Python,128478,12037,14539,809,2016-08-15,2022-03-20,Apache License 2.0
+ml-project-23,dev_user_24,TypeScript,127063,2757,38860,103,2014-02-15,2021-02-20,Apache License 2.0
+ml-project-68,dev_user_19,Python,126827,18471,36534,671,2018-02-15,2024-03-20,MIT License
+ml-project-5,dev_user_6,Python,125358,17359,45474,39,2014-04-15,2021-08-20,GNU General Public License v3.0
+ml-project-27,dev_user_3,Python,125123,18789,43984,1074,2018-06-15,2022-09-20,"BSD 3-Clause ""New"" or ""Revised"" License"
+ml-project-38,dev_user_14,Python,122172,29422,26711,361,2015-06-15,2024-04-20,MIT License
+ml-project-15,dev_user_16,C++,120101,3948,32468,688,2016-06-15,2020-04-20,MIT License
+ml-project-32,dev_user_8,C++,119834,28512,23177,318,2015-06-15,2020-04-20,MIT License
+ml-project-76,dev_user_2,Python,117421,1805,6122,628,2017-08-15,2020-07-20,MIT License
+ml-project-59,dev_user_10,Go,113816,24033,4658,831,2016-01-15,2024-01-20,Apache License 2.0
+ml-project-35,dev_user_11,Python,113566,26145,25816,121,2014-05-15,2020-01-20,MIT License
+ml-project-24,dev_user_25,Jupyter Notebook,113296,28843,25236,805,2018-04-15,2022-01-20,MIT License
+ml-project-78,dev_user_4,C,113221,19135,47577,951,2014-02-15,2022-08-20,Apache License 2.0
+ml-project-69,dev_user_20,Python,112195,23261,14216,842,2014-05-15,2020-02-20,MIT License
+ml-project-31,dev_user_7,C++,111627,4980,2868,516,2017-03-15,2023-02-20,MIT License
+ml-project-21,dev_user_22,Python,108512,16571,12335,885,2015-01-15,2023-05-20,No License
+ml-project-26,dev_user_2,C++,108455,5800,29624,1024,2018-03-15,2023-03-20,GNU General Public License v3.0
+ml-project-25,dev_user_1,C++,108450,20030,17929,754,2018-03-15,2022-02-20,MIT License
+ml-project-12,dev_user_13,C++,108059,22603,18641,489,2018-04-15,2024-07-20,MIT License
+ml-project-18,dev_user_19,Jupyter Notebook,107308,397,24009,756,2014-09-15,2023-06-20,Apache License 2.0
+ml-project-57,dev_user_8,Jupyter Notebook,106616,13416,36047,756,2018-03-15,2024-06-20,No License
+ml-project-30,dev_user_6,Python,106510,6001,19690,542,2016-02-15,2020-08-20,No License
+ml-project-67,dev_user_18,Python,105573,12215,45502,115,2014-07-15,2022-06-20,Apache License 2.0
+ml-project-80,dev_user_6,Python,105537,13141,45875,143,2017-03-15,2020-06-20,MIT License
+ml-project-29,dev_user_5,C++,104746,34863,37131,630,2015-02-15,2021-01-20,No License
+ml-project-20,dev_user_21,Python,101689,11311,38004,477,2015-07-15,2021-03-20,MIT License
+ml-project-93,dev_user_19,Unspecified,101158,2908,12194,973,2018-09-15,2021-04-20,GNU General Public License v3.0
+ml-project-11,dev_user_12,Python,99806,7110,45953,875,2016-09-15,2021-03-20,MIT License
+ml-project-42,dev_user_18,Python,95297,25551,23632,974,2015-02-15,2022-09-20,Apache License 2.0
+ml-project-96,dev_user_22,Python,95270,4957,19597,160,2015-05-15,2020-07-20,"BSD 3-Clause ""New"" or ""Revised"" License"
+ml-project-82,dev_user_8,Jupyter Notebook,94070,14431,32793,1123,2014-05-15,2023-02-20,MIT License
+ml-project-98,dev_user_24,Python,93374,2682,24942,956,2016-01-15,2024-08-20,Apache License 2.0
+ml-project-91,dev_user_17,C++,92751,33795,27806,1008,2017-04-15,2024-08-20,MIT License
+ml-project-40,dev_user_16,Python,92680,4200,5552,695,2016-05-15,2023-03-20,No License
+ml-project-81,dev_user_7,Python,88958,10065,2719,902,2018-08-15,2021-04-20,MIT License
+ml-project-47,dev_user_23,C++,88508,1367,27692,1067,2018-05-15,2021-07-20,"BSD 3-Clause ""New"" or ""Revised"" License"
+ml-project-4,dev_user_5,C++,88313,10827,9292,320,2015-09-15,2021-05-20,MIT License
+ml-project-84,dev_user_10,Jupyter Notebook,87740,15724,19782,82,2015-04-15,2020-09-20,Apache License 2.0
+ml-project-83,dev_user_9,Jupyter Notebook,85555,8362,5915,922,2017-08-15,2022-09-20,GNU General Public License v3.0
+ml-project-3,dev_user_4,Python,85478,18631,3247,980,2016-07-15,2023-09-20,MIT License
+ml-project-41,dev_user_17,Jupyter Notebook,83986,24307,21264,401,2017-02-15,2024-03-20,Apache License 2.0
+ml-project-72,dev_user_23,Jupyter Notebook,83838,19381,39138,810,2016-03-15,2020-07-20,MIT License
+ml-project-74,dev_user_25,Python,83152,26934,6871,115,2015-08-15,2020-03-20,MIT License
+ml-project-87,dev_user_13,Jupyter Notebook,81910,5988,5908,482,2016-04-15,2024-06-20,GNU General Public License v3.0
+ml-project-52,dev_user_3,Jupyter Notebook,81219,704,34482,828,2014-06-15,2024-06-20,No License
+ml-project-6,dev_user_7,Python,79953,9892,46258,406,2015-02-15,2021-04-20,Apache License 2.0
+ml-project-34,dev_user_10,C++,74523,29140,37733,640,2015-03-15,2020-08-20,MIT License
+ml-project-89,dev_user_15,C++,72907,6559,41131,19,2018-08-15,2024-04-20,GNU General Public License v3.0
+ml-project-54,dev_user_5,Python,72726,17840,38913,1171,2014-05-15,2022-07-20,MIT License
+ml-project-66,dev_user_17,Unspecified,71390,20056,22333,789,2017-04-15,2024-02-20,Apache License 2.0
+ml-project-45,dev_user_21,Jupyter Notebook,69450,21552,46852,66,2017-09-15,2024-03-20,MIT License
+ml-project-37,dev_user_13,Python,68215,3706,13784,1114,2014-05-15,2020-04-20,MIT License
+ml-project-2,dev_user_3,Jupyter Notebook,65820,969,2933,960,2018-01-15,2023-06-20,MIT License
+ml-project-63,dev_user_14,Python,62877,28738,32549,272,2014-06-15,2023-05-20,MIT License
+ml-project-56,dev_user_7,Python,62529,19329,40751,544,2017-05-15,2020-04-20,"BSD 3-Clause ""New"" or ""Revised"" License"
+ml-project-46,dev_user_22,Python,60163,17301,32807,855,2015-05-15,2024-03-20,Apache License 2.0
+ml-project-97,dev_user_23,Python,53853,25117,31695,1091,2018-08-15,2020-07-20,Apache License 2.0
+ml-project-16,dev_user_17,C,53733,24138,24164,956,2014-01-15,2021-02-20,MIT License
+ml-project-58,dev_user_9,Jupyter Notebook,51990,10336,509,828,2015-05-15,2020-06-20,No License
+ml-project-73,dev_user_24,Python,51448,30126,6729,130,2017-09-15,2020-04-20,Apache License 2.0
+ml-project-75,dev_user_1,Python,49447,34729,10667,319,2018-06-15,2024-09-20,MIT License
+ml-project-44,dev_user_20,Python,48295,17706,20963,982,2014-07-15,2024-01-20,Apache License 2.0
+ml-project-62,dev_user_13,Python,46106,17300,22449,453,2014-08-15,2021-08-20,MIT License
+ml-project-13,dev_user_14,Python,44585,2893,29967,1056,2017-04-15,2022-07-20,No License
+ml-project-95,dev_user_21,C++,42914,5171,13990,668,2014-07-15,2023-06-20,MIT License
+ml-project-100,dev_user_1,TypeScript,41806,13287,38141,166,2017-01-15,2023-02-20,No License
+ml-project-94,dev_user_20,C++,41738,25350,34893,79,2015-07-15,2021-02-20,No License
+ml-project-7,dev_user_8,Unspecified,41397,26051,1516,300,2018-02-15,2024-08-20,MIT License
+ml-project-85,dev_user_11,Python,40711,12154,8304,426,2014-07-15,2020-09-20,MIT License
+ml-project-49,dev_user_25,Python,40081,27769,23822,638,2015-05-15,2024-05-20,MIT License
+ml-project-9,dev_user_10,Jupyter Notebook,39660,3761,27354,1022,2014-07-15,2020-08-20,MIT License
+ml-project-43,dev_user_19,Jupyter Notebook,39513,26292,11838,417,2017-09-15,2024-09-20,Apache License 2.0
+ml-project-99,dev_user_25,Python,39258,29065,7145,992,2014-02-15,2022-04-20,MIT License
+ml-project-48,dev_user_24,Python,39102,9124,37598,662,2017-09-15,2021-01-20,MIT License
+ml-project-53,dev_user_4,C,35620,20759,28009,207,2017-05-15,2023-03-20,Apache License 2.0
+ml-project-88,dev_user_14,Jupyter Notebook,33154,17534,2836,200,2015-05-15,2022-01-20,MIT License
+ml-project-92,dev_user_18,Jupyter Notebook,28632,20730,40464,783,2014-05-15,2024-04-20,MIT License
+ml-project-14,dev_user_15,Python,24776,30280,1806,637,2017-09-15,2022-07-20,MIT License
+ml-project-70,dev_user_21,Python,24624,23521,10988,51,2014-06-15,2022-01-20,MIT License
+ml-project-61,dev_user_12,C++,24524,3836,11416,718,2015-03-15,2020-05-20,Apache License 2.0
+ml-project-39,dev_user_15,Python,24289,10023,42475,520,2015-01-15,2023-04-20,Apache License 2.0
+ml-project-64,dev_user_15,Jupyter Notebook,20198,19958,15754,857,2015-03-15,2023-02-20,MIT License
+ml-project-22,dev_user_23,C++,8400,15351,1654,408,2014-08-15,2023-01-20,MIT License
+ml-project-17,dev_user_18,Python,8392,21756,39059,251,2017-07-15,2022-08-20,MIT License
+ml-project-36,dev_user_12,Python,6237,20256,46043,901,2018-07-15,2024-06-20,GNU General Public License v3.0
+ml-project-51,dev_user_2,Python,5748,21433,9935,1086,2017-08-15,2024-09-20,GNU General Public License v3.0
+ml-project-77,dev_user_3,Python,5324,10987,9611,10,2015-04-15,2023-04-20,MIT License
